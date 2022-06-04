@@ -31,4 +31,4 @@ Project Requirements
 ### Project Status
 Project is: _complete_
 ### Contact
-Created by _Milena Chrostek_ - feel free to contact me!
+Created by _Milena Chrostek_
