@@ -4,9 +4,9 @@ _Postgraduate studies - Automation Tester in Selenium_
 ### Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Setup](#setup)
 * [Test Cases](#test-cases)
 * [Screenshots](#screenshots)
+* [Setup](#setup)
 * [Project Status](#project-status)
 * [Contact](#contact)
 <!-- * [License](#license) -->
