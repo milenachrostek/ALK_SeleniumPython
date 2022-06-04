@@ -17,7 +17,7 @@ Postgraduate studies - Automation Tester in Selenium
 - Page Object
 ### Setup
 The purpose of project is to test selected website functionalities, 6 test cases were created.
-In this work, the Page Object design pattern and Data Driven Testing (DDT) were used.
+In this work, the Page Object Pattern and Data Driven Test (DDT) were used.
 ### Test Cases 
 - TC1: test_shopping - User does not fill the email field while shopping
 - TC2: women_test - User is able to sort products
