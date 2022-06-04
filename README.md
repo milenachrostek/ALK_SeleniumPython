@@ -12,8 +12,7 @@ Postgraduate studies - Automation Tester in Selenium
 <!-- * [License](#license) -->
 ### General Information
 - Website: http://automationpractice.com
-- The purpose of project is to test selected website functionalities, 6 test cases were created.
-In this work, the Page Object Pattern and Data Driven Test (DDT) were used.
+- The purpose of project is to test selected website functionalities. The Page Object Pattern and Data Driven Test (DDT) were used and 6 test cases were created.
 ### Technologies Used
 - Data Driven Test
 - Page Object
