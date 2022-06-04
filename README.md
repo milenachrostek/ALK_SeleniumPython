@@ -1,5 +1,5 @@
 # KOZMINSKI UNIVERSITY
-Postgraduate studies - Automation Tester in Selenium
+_Postgraduate studies - Automation Tester in Selenium_
 ## PROJECT: TESTS AUTOMATION OF WEB APPLICATION IN PYTHON
 ### Table of Contents
 * [General Info](#general-information)
