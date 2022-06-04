@@ -18,6 +18,8 @@ Postgraduate studies - Automation Tester in Selenium
 ### Setup
 The purpose of project is to test selected website functionalities, 6 test cases were created.
 In this work, the Page Object Pattern and Data Driven Test (DDT) were used.
+_Project Requirements_
+[requirements.txt](https://github.com/milenachrostek/ALK_SeleniumPython/files/8837713/requirements.txt)
 ### Test Cases 
 - TC1: test_shopping - User does not fill the email field while shopping
 - TC2: women_test - User is able to sort products
