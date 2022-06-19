@@ -14,7 +14,6 @@ _Postgraduate studies - Automation Tester in Selenium_
 - Website: http://automationpractice.com
 - The purpose of project is to test selected website functionalities. The Page Object Pattern was used and 6 test cases were created.
 ### Technologies Used
-- Data Driven Test
 - Page Object
 ### Setup
 Project Requirements
