@@ -14,7 +14,7 @@ _Postgraduate studies - Automation Tester in Selenium_
 - Website: http://automationpractice.com
 - The purpose of project is to test selected website functionalities. The Page Object Pattern was used and 6 test cases were created.
 ### Technologies Used
-- Page Object
+- Page Object Pattern (POP)
 ### Setup
 Project Requirements
 - [requirements.txt](https://github.com/milenachrostek/ALK_SeleniumPython/files/8837713/requirements.txt)
